@@ -1,0 +1,12 @@
+OTEVŘENÍ BEZ PHP A SERVERU
+
+1. Rozbalte ZIP.
+2. Otevřete soubor index.html nebo menu.html dvojklikem.
+3. Hry a editory fungují přímo v prohlížeči.
+
+Sudoku: herní logika běží v JavaScriptu, místní výsledky jsou ukládány v localStorage.
+Nonogram: ukázková hra 5x5.
+Editory: stáhnou zadání do JSON; nemají publikování.
+Multiplayer: záměrně neaktivní.
+Žebříček: pouze místní výsledky, nikoli síťový multiplayer.
+Přihlášení a centrální databáze byly v offline verzi odstraněny.
